@@ -59,5 +59,5 @@ aspect.t2wAll()
 |swap_camera_ratio|2:3|![](imgs/2-3.png)|
 |swap_academy_ratio|3:4|![](imgs/3-4.png)|
 |swap_scope_ratio|1:2|![](imgs/1-2.png)|
-|swap_golden_ratio|1.1.618|![](imgs/1-1.618.png)|
-|swap_silver_ratio|1.1.414|![](imgs/1-1.414.png)|
+|swap_golden_ratio|1.618:1|![](imgs/1.618-1.png)|
+|swap_silver_ratio|1.414:1|![](imgs/1.414-1.png)|
