@@ -45,9 +45,9 @@ aspect.t2wAll()
 ```
 
 ## アスペクト比表
-|argument|aspect ratio||
+|argument|aspect ratio|img|
 |--|--|--|
-|without_change|without_change|![](imgs/without_change.png)|
+|without_change|without_change|width,height指定で任意のサイズ|
 |square|1:1|![](imgs/1-1.png)|
 |hi_vision_ratio|16:9|![](imgs/16-9.png)|
 |camera_ratio|3:2|![](imgs/3-2.png)|
