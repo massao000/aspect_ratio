@@ -45,19 +45,19 @@ aspect.t2wAll()
 ```
 
 ## アスペクト比表
-|argument|aspect ratio|
-|--|--|
-|without_change|without_change|
-|square|1:1|
-|hi_vision_ratio|16:9|
-|camera_ratio|3:2|
-|academy_ratio|4:3|
-|scope_ratio|2:1|
-|golden_ratio|1:1.618|
-|silver_ratio|1:1.414|
-|swap_hi_vision_ratio|9:16|
-|swap_camera_ratio|2:3|
-|swap_academy_ratio|3:4|
-|swap_scope_ratio|1:2|
-|swap_golden_ratio|1.618:1|
-|swap_silver_ratio|1.414:1|
+|argument|aspect ratio||
+|--|--|--|
+|without_change|without_change|![](imgs/without_change.png)|
+|square|1:1||
+|hi_vision_ratio|16:9||
+|camera_ratio|3:2||
+|academy_ratio|4:3||
+|scope_ratio|2:1||
+|golden_ratio|1:1.618||
+|silver_ratio|1:1.414||
+|swap_hi_vision_ratio|9:16||
+|swap_camera_ratio|2:3||
+|swap_academy_ratio|3:4||
+|swap_scope_ratio|1:2||
+|swap_golden_ratio|1.618:1||
+|swap_silver_ratio|1.414:1||
