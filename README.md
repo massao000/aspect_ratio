@@ -20,7 +20,7 @@ aspect.all()
 print(aspect.result_dict)
 
 # 8で割り切れるアスペクト比
-print(aspect.result_dict8)
+print(aspect.result_divisible8)
 ```
 
 * `aspect.aspect_size`からアスペクト比の一覧
