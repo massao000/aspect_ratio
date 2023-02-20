@@ -27,8 +27,8 @@ print(aspect.result_divisible8)
 ```python
 aspect_size = aspect.aspect_size['hi_vision_ratio']
 
-print(aspect.result_divisible[aspect_size]['width'])
-print(aspect.result_divisible[aspect_size]['height'])
+print(aspect.result_divisible8[aspect_size]['width'])
+print(aspect.result_divisible8[aspect_size]['height'])
 ```
 
 
